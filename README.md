@@ -1,4 +1,4 @@
-<!--
+
 **Sharonoito/sharonoito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Hello! I'm Sharon Akoth, a passionate Software Developer with over 3 years of experience building robust, maintainable, and scalable applications. My expertise spans frontend and backend technologies, allowing me to contribute to full-stack development and deliver end-to-end solutions that focus on performance, usability, and accessibility.
@@ -18,5 +18,5 @@ Let's connect! I'm always open to collaborating, contributing, or just having a 
 Here are some ideas to get you started:
 
 
--->
+
 
