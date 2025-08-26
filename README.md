@@ -8,14 +8,18 @@
 </div>
  
 <div align="center">
-
-## ⚡ Projetos em Destaque  
+  <h2>🛠️ My Skills & Technologies</h2>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,angular,flutter,ts,js,html,css,git,github,vscode,azure,aws,postgresql,sqlserver,mongodb" />
+</div>
+ 
+<div align="center">
+  <h2>⚡ Featured Projects</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
 <a href="https://github.com/sharonoito/Flash-Prompt-Generator">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Flash-Prompt-Generator&theme=radical&show_owner=true&cache_seconds=30&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
 </a>
-<a href="https://github.comsharonoito/sharonoito.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoitos&repo=sharonoito.github.io&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+<a href="https://github.com/sharonoito/sharonoito.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=sharonoito.github.io&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
 </a>
 <a href="https://github.com/sharonoito/Dart-do-Zero">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Dart-do-Zero&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
@@ -24,16 +28,26 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharonoito&theme=radical&cache_seconds=random" />
 </div>
  
+<div align="center">
+  <h2>📧 Let's Connect!</h2>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+ 
 <div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />  
 <img src="https://komarev.com/ghpvc/?username=sharonoito&style=for-the-badge&color=00d4ff&cache_seconds=random" />  
 <p style="color: #00d4ff; font-family: 'Courier New', monospace; margin-top: 10px; font-size: 14px;">
-
     ⚡ Powered by Flutter Energy ⚡
 </p>
 <p style="color: #8cc8ff; font-family: 'Courier New', monospace; font-size: 13px; margin-top: -5px;">
-
-    Feito por <strong>Sharon</strong> &copy; 2025
+    Made by <strong>Sharon</strong> &copy; 2025
 </p>
 </div>
- 
