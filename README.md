@@ -1,19 +1,19 @@
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=.NET%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,14,18,30&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=.NET%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55" />  
 </div>
 
 ---
 
 ## 👩‍💻 About Me  
-Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passionate about building **scalable, modern web applications**.  
+Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passionate about building **modern, scalable web applications**.  
 
-💼 With hands-on expertise in:  
-- **.NET (C#, ASP.NET, Web API)** for backend engineering  
-- **React, Next.js, Angular** for frontend excellence  
-- **SQL & MongoDB** for data management  
-- **Docker & Git** for deployment and collaboration  
-
-🌟 I thrive in **cross-functional teams**, love solving **real-world problems with clean code**, and I’m always exploring **new technologies**.  
+### 🔹 What I Do
+- **Backend Engineering** → .NET (C#, ASP.NET, Web API)  
+- **Frontend Development** → React, Next.js, Angular  
+- **Database Management** → SQL & MongoDB  
+- **DevOps & Collaboration** → Docker & Git  
+- **Teamwork** → Thrive in cross-functional teams  
+- **Continuous Learning** → Exploring new frameworks & tools  
 
 ---
 
@@ -97,11 +97,10 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
   </a>
 </div>
 
-
 ---
 
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,14,18,30&height=120&section=footer&animation=twinkling" />  
 <img src="https://komarev.com/ghpvc/?username=sharonoito&style=for-the-badge&color=00d4ff" />  
 <p style="color: #00d4ff; font-family: 'Courier New', monospace; margin-top: 10px; font-size: 14px;">
     ⚡ Powered by Code & Creativity ⚡
