@@ -57,27 +57,29 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 
 
 ## ⚡ Featured Projects  
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<a href="https://github.com/sharonoito/Flash-Prompt-Generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Flash-Prompt-Generator&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
-</a>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px;">
 
-<a href="https://github.com/sharonoito/sharonoito.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=sharonoito.github.io&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
-</a>
+  <!-- Project 1 -->
+  <a href="https://flash-prompt.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sharonoito/Flash-Prompt-Generator/main/screenshot.png" width="100%" alt="Flash Prompt Generator" />
+  </a>
+  <p>
+    🔹 <a href="https://flash-prompt.netlify.app/" target="_blank">Live Demo</a> |  
+    💻 <a href="https://github.com/sharonoito/Flash-Prompt-Generator" target="_blank">Code</a>
+  </p>
 
-<a href="https://github.com/sharonoito/Dart-do-Zero">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Dart-do-Zero&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
-</a>
+  <!-- Project 2 -->
+  <a href="https://sharonportfolio.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sharonoito/sharonoito.github.io/main/screenshot.png" width="100%" alt="Portfolio Website" />
+  </a>
+  <p>
+    🔹 <a href="https://sharonportfolio.netlify.app/" target="_blank">Live Demo</a> |  
+    💻 <a href="https://github.com/sharonoito/sharonoito.github.io" target="_blank">Code</a>
+  </p>
 
-</div>  
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharonoito&theme=radical" />
 </div>
 
----
 
 ## 🌟 Highlights  
 - 🏆 Consistent contributor with **X+ commits** this year  
@@ -107,7 +109,7 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,14,18,30&height=120&section=footer&animation=twinkling" />  
 <img src="https://komarev.com/ghpvc/?username=sharonoito&style=for-the-badge&color=00d4ff" />  
 <p style="color: #00d4ff; font-family: 'Courier New', monospace; margin-top: 10px; font-size: 14px;">
-    ⚡ Powered by Code & Creativity ⚡
+    
 </p>
 <p style="color: #8cc8ff; font-family: 'Courier New', monospace; font-size: 13px; margin-top: -5px;">
     Made with ❤️ by <strong>Sharon</strong> &copy; 2025
