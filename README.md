@@ -78,10 +78,10 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 
 
 ## 🌟 Highlights  
-- 🏆 Consistent contributor with **X+ commits** this year  
-- 🚀 Built and deployed **full-stack apps** with .NET + React/Next.js  
-- 📚 Created learning resources like **Dart-do-Zero** repo for beginners  
-- 🤝 Open to **collaboration, mentorship, and freelance opportunities**  
+- 🏆 Consistently contributed to open-source projects within the year  
+- 🚀 Built and deployed **full-stack apps** integrating .NET, React, and Next.js  
+- 🤝 Passionate about **collaboration, mentorship, and helping others grow**  
+- 💡 Always exploring **new tech and creative solutions** to real-world problems
 
 ---
 
