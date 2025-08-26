@@ -10,15 +10,15 @@
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonoito&layout=compact&langs_count=12&theme=radical&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
 </div>  
 
+<!--
 <div align="center">
 <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=sharonoito&theme=radical&cache_seconds=random&background=0d1117&border=00d4ff&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8cc8ff&excludeDaysLabel=666666" />
 </div>
 
 <div align="center">
-  ![GitHub Trophy Placeholder](https://via.placeholder.com/400x100?text=GitHub+Trophies)
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=sharonoito&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1" /> -->
+ <img src="https://github-profile-trophy.vercel.app/?username=sharonoito&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1" /> 
 </div>
+-->
 
 ---
 
