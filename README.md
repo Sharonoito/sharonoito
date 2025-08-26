@@ -4,6 +4,18 @@
 
 ---
 
+## 📊 GitHub Analytics  
+<div align="center">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=sharonoito&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=30&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonoito&layout=compact&langs_count=12&theme=radical&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
+</div>  
+
+<div align="center">
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=sharonoito&theme=radical&cache_seconds=random&background=0d1117&border=00d4ff&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8cc8ff&excludeDaysLabel=666666" />
+</div>
+
+---
+
 ## 👩‍💻 About Me  
 Hi, I’m **Sharon Akoth** – a passionate **Full-Stack Developer** with expertise in:  
 - **.NET** (C#, ASP.NET, Web API)  
@@ -30,18 +42,6 @@ Hi, I’m **Sharon Akoth** – a passionate **Full-Stack Developer** with expert
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Analytics  
-<div align="center">
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=sharonoito&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=30&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonoito&layout=compact&langs_count=12&theme=radical&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
-</div>  
-
-<div align="center">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=sharonoito&theme=radical&cache_seconds=random&background=0d1117&border=00d4ff&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8cc8ff&excludeDaysLabel=666666" />
 </div>
 
 ---
