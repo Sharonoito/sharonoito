@@ -58,16 +58,20 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 
 ## ⚡ Featured Projects  
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px;">
+##  Featured Projects
 
-<a href="https://github.com/sharonoito/Flash-Prompt-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Flash-Prompt-Generator&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
-</a>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px;">
+
 <a href="https://metaportal-nft.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Live%20Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://metaportal-nft.netlify.app/screenshot.png" width="100%" alt="MetaPortal NFT" />
 </a>
+<p>
+  🔗 <a href="https://metaportal-nft.netlify.app/" target="_blank">Live Demo</a>  
+  |  <a href="https://github.com/sharonoito/Flash-Prompt-Generator" target="_blank">Code</a>
+</p>
 
 </div>
+
 
 
 
