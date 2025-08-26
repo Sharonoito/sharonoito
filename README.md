@@ -58,19 +58,16 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 
 ## ⚡ Featured Projects  
 
-##  Featured Projects
+###  Live Demos
+- [MetaPortal NFT](https://metaportal-nft.netlify.app/) — NFT Web App built with Next.js
+- [Coffee Web App](https://cofee-webapp.netlify.app/) — Responsive coffee shop site
+- [Faith Parlour](https://faithparlour.netlify.app/) — Salon booking interface
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px;">
-
-<a href="https://metaportal-nft.netlify.app/" target="_blank">
-  <img src="https://metaportal-nft.netlify.app/screenshot.png" width="100%" alt="MetaPortal NFT" />
-</a>
-<p>
-  🔗 <a href="https://metaportal-nft.netlify.app/" target="_blank">Live Demo</a>  
-  |  <a href="https://github.com/sharonoito/Flash-Prompt-Generator" target="_blank">Code</a>
-</p>
-
+###  GitHub Projects
+<div align="center">  
+<!-- GitHub repo cards as before -->
 </div>
+
 
 
 
