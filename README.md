@@ -70,10 +70,6 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharonoito&repo=PoliceApp-Backend&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=ffcc00&title_color=ffcc00&text_color=ffffff&icon_color=ffcc00&hide_border=false&border_radius=15" />
 </a>
 
-<a href="https://github.com/Sharonoito/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharonoito&repo=My-Portfolio&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=00e676&hide_border=false&border_radius=15" />
-</a>
-
 
 </div>  
 
