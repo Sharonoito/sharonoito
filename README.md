@@ -1,19 +1,18 @@
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,14,18,30&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=.NET%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=.NET%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55" />  
 </div>
 
 ---
 
 ## 👩‍💻 About Me  
-Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passionate about building **modern, scalable web applications**.  
 
-### 🔹 What I Do
-- **Backend Engineering** → .NET (C#, ASP.NET, Web API)  
-- **Frontend Development** → React, Next.js, Angular  
-- **Database Management** → SQL & MongoDB  
-- **DevOps & Collaboration** → Docker & Git  
-- **Teamwork** → Thrive in cross-functional teams  
-- **Continuous Learning** → Exploring new frameworks & tools  
+Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passionate about building **scalable, modern web applications**.
+
+* **Expertise in Backend**: Proficient with **.NET (C#, ASP.NET, Web API)** for robust backend engineering.
+* **Frontend Excellence**: Skilled in **React, Next.js, and Angular** for dynamic and engaging user interfaces.
+* **Data Management**: Experienced in **SQL** and **MongoDB** for efficient data solutions.
+* **Deployment & Collaboration**: Utilizes **Docker** for streamlined deployment and **Git** for effective version control.
+* **Team Player**: Thrives in **cross-functional teams**, loves solving **real-world problems with clean code**, and is always exploring **new technologies**.
 
 ---
 
@@ -38,14 +37,12 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 
 ## 📊 GitHub Analytics  
 <div align="center">
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=sharonoito&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=30&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonoito&layout=compact&langs_count=12&theme=radical&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=sharonoito&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=30&bg_color=1A202C&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonoito&layout=compact&langs_count=12&theme=radical&cache_seconds=random&bg_color=1A202C&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
 </div>  
-
 <div align="center">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=sharonoito&theme=radical&cache_seconds=random&background=0d1117&border=00d4ff&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8cc8ff&excludeDaysLabel=666666" />
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=sharonoito&theme=radical&cache_seconds=random&background=1A202C&border=00d4ff&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8cc8ff&excludeDaysLabel=666666" />
 </div>
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sharonoito&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1" />
 </div>
@@ -56,21 +53,20 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <a href="https://github.com/sharonoito/Flash-Prompt-Generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Flash-Prompt-Generator&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Flash-Prompt-Generator&theme=radical&show_owner=true&bg_color=1A202C&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
 </a>
 
 <a href="https://github.com/sharonoito/sharonoito.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=sharonoito.github.io&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=sharonoito.github.io&theme=radical&show_owner=true&bg_color=1A202C&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
 </a>
 
 <a href="https://github.com/sharonoito/Dart-do-Zero">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Dart-do-Zero&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Dart-do-Zero&theme=radical&show_owner=true&bg_color=1A202C&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
 </a>
 
 </div>  
-
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharonoito&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharonoito&theme=radical&bg_color=1A202C" />
 </div>
 
 ---
@@ -79,12 +75,9 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 - 🏆 Consistent contributor with **X+ commits** this year  
 - 🚀 Built and deployed **full-stack apps** with .NET + React/Next.js  
 - 📚 Created learning resources like **Dart-do-Zero** repo for beginners  
-- 🤝 Open to **collaboration, mentorship, and freelance opportunities**  
-
----
+- 🤝 Open to **collaboration, mentorship, and freelance opportunities** ---
 
 ## 🤝 Let’s Connect
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sharon-akoth-oito/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -100,7 +93,7 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 ---
 
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,14,18,30&height=120&section=footer&animation=twinkling" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />  
 <img src="https://komarev.com/ghpvc/?username=sharonoito&style=for-the-badge&color=00d4ff" />  
 <p style="color: #00d4ff; font-family: 'Courier New', monospace; margin-top: 10px; font-size: 14px;">
     ⚡ Powered by Code & Creativity ⚡
