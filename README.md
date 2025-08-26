@@ -1,10 +1,9 @@
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,60,90&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=.NET%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55&descColor=00d4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=.NET%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55&descColor=00d4ff" />
 </div>
 
 
-
-## 📊 GitHub Analytics  
+<!--## 📊 GitHub Analytics --> 
 <div align="center">
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=sharonoito&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=30&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonoito&layout=compact&langs_count=12&theme=radical&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
