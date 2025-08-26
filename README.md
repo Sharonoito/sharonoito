@@ -1,5 +1,6 @@
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,14,18,30&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=.NET%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=.NET%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55&descColor=8cc8ff" />
+
 </div>
 
 ---
