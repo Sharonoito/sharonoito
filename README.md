@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=.Net%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sharon%20Akoth&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=.Net%20•%20React%20•%20Next.js%20•%20Angular%20Developer&descSize=20&descAlignY=55" />
 </div>
 
 <div align="center">
-# Hi there, I'm Sharon Akoth 👋
-### A passionate Full-Stack Developer creating solutions with .NET, React, and Angular.
+  # Hi there, I'm Sharon Akoth 👋
+  ### A passionate Full-Stack Developer creating solutions with .NET, React, and Angular.
 </div>
 
 ---
