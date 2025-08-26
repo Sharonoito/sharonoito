@@ -15,7 +15,9 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sharonoito&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1" />
+  ![GitHub Trophy Placeholder](https://via.placeholder.com/400x100?text=GitHub+Trophies)
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=sharonoito&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1" /> -->
 </div>
 
 ---
