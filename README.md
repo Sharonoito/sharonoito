@@ -6,6 +6,23 @@
 
 ---
 
+
+## 📊 GitHub Analytics  
+<div align="center">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=sharonoito&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=30&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonoito&layout=compact&langs_count=12&theme=radical&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
+</div>  
+
+<div align="center">
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=sharonoito&theme=radical&cache_seconds=random&background=0d1117&border=00d4ff&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8cc8ff&excludeDaysLabel=666666" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sharonoito&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1" />
+</div>
+
+---
+
 ## 👩‍💻 About Me  
 Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passionate about building **modern, scalable web applications**.  
 
@@ -19,7 +36,7 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 
 ---
 
-## 🚀 Skills & Tools  
+## 🚀 Tech Stack
 <div align="center">
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -38,21 +55,6 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 
 ---
 
-## 📊 GitHub Analytics  
-<div align="center">
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=sharonoito&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=30&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonoito&layout=compact&langs_count=12&theme=radical&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
-</div>  
-
-<div align="center">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=sharonoito&theme=radical&cache_seconds=random&background=0d1117&border=00d4ff&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8cc8ff&excludeDaysLabel=666666" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sharonoito&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1" />
-</div>
-
----
 
 ## ⚡ Featured Projects  
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
