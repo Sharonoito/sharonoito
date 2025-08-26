@@ -106,8 +106,8 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 <p style="color: #00d4ff; font-family: 'Courier New', monospace; margin-top: 10px; font-size: 14px;">
     
 </p>
-<p style="color: #8cc8ff; font-family: 'Courier New', monospace; font-size: 14px; font-weight: 500; margin-top: 0; margin-bottom: 5px;">
-
+<p style="color: #8cc8ff; font-family: 'Courier New', monospace; font-size: 14px; font-weight: 500; margin: 0 0 5px 0; text-align: center;">
     Made with ❤️ by <strong>Sharon</strong> &copy; 2025
 </p>
+
 </div>
