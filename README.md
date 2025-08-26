@@ -55,22 +55,28 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 
 ---
 
-
 ## ⚡ Featured Projects  
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
 
-###  Live Demos
-- [MetaPortal NFT](https://metaportal-nft.netlify.app/) — NFT Web App built with Next.js
-- [Coffee Web App](https://cofee-webapp.netlify.app/) — Responsive coffee shop site
-- [Faith Parlour](https://faithparlour.netlify.app/) — Salon booking interface
+<a href="https://sharonportfolio.netlify.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=sharonoito.github.io&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+</a>
 
-###  GitHub Projects
-<div align="center">  
-<!-- GitHub repo cards as before -->
+<a href="https://github.com/Sharonoito/RedSwift">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Flash-Prompt-Generator&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+</a>
+
+<a href="https://github.com/Sharonoito/ChurnPredictionML">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonoito&repo=Dart-do-Zero&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+</a>
+
+</div>  
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharonoito&theme=radical" />
 </div>
 
-
-
-
+---
 
 ## 🌟 Highlights  
 - 🏆 Consistent contributor with **X+ commits** this year  
