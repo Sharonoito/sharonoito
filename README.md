@@ -58,17 +58,22 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 ## ⚡ Featured Projects  
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
 
+<a href="https://github.com/Sharonoito/My-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharonoito&repo=My-Portfolio&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=00e676&hide_border=false&border_radius=15" />
+</a>
+
   <a href="https://github.com/Sharonoito/ChurnPredictionML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharonoito&repo=ChurnPredictionML&theme=radical&show_owner=true&cache_seconds=30&bg_color=0d1117&border_color=ff4444&title_color=ff4444&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
   </a>
 
-  <a href="https://github.com/Sharonoito/RedSwift">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharonoito&repo=RedSwift&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=00e676&hide_border=false&border_radius=15" />
-  </a>
+<a href="https://github.com/Sharonoito/PoliceApp-Backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharonoito&repo=PoliceApp-Backend&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=ffcc00&title_color=ffcc00&text_color=ffffff&icon_color=ffcc00&hide_border=false&border_radius=15" />
+</a>
 
-  <a href="https://github.com/Sharonoito/SpeechTherapyApplication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharonoito&repo=SpeechTherapyApplication&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=ffcc00&title_color=ffcc00&text_color=ffffff&icon_color=ffcc00&hide_border=false&border_radius=15" />
-  </a>
+<a href="https://github.com/Sharonoito/My-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharonoito&repo=My-Portfolio&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=00e676&hide_border=false&border_radius=15" />
+</a>
+
 
 </div>  
 
@@ -76,13 +81,6 @@ Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passion
 
 ---
 
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharonoito&theme=github-compact" />
-</p>
-
----
 
 ## 🌟 Highlights  
 - 🏆 Consistent contributor with **X+ commits** this year  
