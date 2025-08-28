@@ -25,7 +25,7 @@
 Hi, I’m **Sharon Akoth** – a results-driven **Full-Stack Developer** passionate about building **modern, scalable web applications**.  
 
 ### 🔹 What I Do
-- **Backend Engineering** → .NET (C#, ASP.NET, Web API)  
+- **Backend Engineering** → Python, .NET (C#, ASP.NET, Web API)  
 - **Frontend Development** → React, Next.js, Angular  
 - **Database Management** → SQL & MongoDB  
 - **DevOps & Collaboration** → Docker & Git  
